@@ -1404,6 +1404,12 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Compound Interesting](https://compoundinterest.ing/mcp) `https://api.compoundinterest.ing/mcp`
   [![Compound Interesting MCP connector](https://glama.ai/mcp/connectors/ing.compoundinterest/market-intelligence/badges/score.svg)](https://glama.ai/mcp/connectors/ing.compoundinterest/market-intelligence)
   🔓 - Insider trades, Congress disclosures and 13F holdings for 4,600+ US stocks; data needs a free key.
+- [contix](https://contix.es/mcp/) `https://api.contix.es/api/v1/mcp`
+  [![contix MCP connector](https://glama.ai/mcp/connectors/es.contix/contix/badges/score.svg)](https://glama.ai/mcp/connectors/es.contix/contix)
+  🔐 - Spanish invoicing with Veri*factu: customers, invoices, payments, expenses, quotes, Facturae/FACe, Modelo 303.
+- [contix herramientas](https://contix.es/mcp/) `https://api.contix.es/api/v1/mcp/herramientas`
+  [![contix herramientas MCP connector](https://glama.ai/mcp/connectors/es.contix/herramientas/badges/score.svg)](https://glama.ai/mcp/connectors/es.contix/herramientas)
+  🔓 - Free Spanish business checks: IBAN with bank and BIC, EU VAT number (VIES), Modelo 303 figures, AEAT filing dates.
 - [date-firme](https://date-firme.dev-box.ro/llms.txt) `https://date-firme.dev-box.ro/mcp`
   [![date-firme MCP connector](https://glama.ai/mcp/connectors/ro.dev-box.date-firme/date-firme/badges/score.svg)](https://glama.ai/mcp/connectors/ro.dev-box.date-firme/date-firme)
   🔓 - Romanian company data (ONRC/ANAF): CUI lookup, financials, KYB risk, CAEN benchmarks, B2B leads; x402 USDC.
